@@ -1,0 +1,28 @@
+{
+	"name": "ayuloco-theme",
+	"displayName": "Ayuloco Dark Theme",
+	"description": "A theme that combines Bluloco's text colors with Ayu's background color.",
+	"version": "1.0.0",
+	"icon": "icon.png",
+	"engines": {
+		"vscode": "^1.10.0"
+	},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dpaulos6/ayuloco-theme.git"
+  },
+  "contributes": {
+		"themes": [
+			{
+				"label": "Ayuloco Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayuloco-dark-color-theme.json"
+			},
+			{
+				"label": "Ayuloco Dark Italic",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayuloco-dark-italic-color-theme.json"
+			}
+		]
+	}
+}
