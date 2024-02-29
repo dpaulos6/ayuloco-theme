@@ -3,7 +3,7 @@
 	"displayName": "Ayuloco Dark Theme",
 	"description": "A theme that combines Bluloco's text colors with Ayu's background colors.",
 	"publisher": "dpaulos6",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.10.0"
@@ -24,7 +24,7 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayuloco-dark-bordered-color-theme.json"
 			},
-      {
+			{
 				"label": "Ayuloco Mirage",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayuloco-mirage-color-theme.json"
