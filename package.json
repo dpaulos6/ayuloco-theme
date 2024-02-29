@@ -1,7 +1,8 @@
 {
 	"name": "ayuloco-theme",
 	"displayName": "Ayuloco Dark Theme",
-	"description": "A theme that combines Bluloco's text colors with Ayu's background color.",
+	"description": "A theme that combines Bluloco's text colors with Ayu's background colors.",
+  "publisher": "dpaulos6",
 	"version": "1.0.0",
 	"icon": "icon.png",
 	"engines": {
