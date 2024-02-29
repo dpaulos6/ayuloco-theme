@@ -3,7 +3,7 @@
 	"displayName": "Ayuloco Theme",
 	"description": "A theme that combines Bluloco's text colors with Ayu's background colors.",
 	"publisher": "dpaulos6",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"icon": "icon.png",
 	"engines": {
 		"vscode": "^1.10.0"
