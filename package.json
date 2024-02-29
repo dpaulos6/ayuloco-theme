@@ -23,6 +23,16 @@
 				"label": "Ayuloco Dark Bordered",
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayuloco-dark-bordered-color-theme.json"
+			},
+      {
+				"label": "Ayuloco Mirage",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayuloco-mirage-color-theme.json"
+			},
+			{
+				"label": "Ayuloco Mirage Bordered",
+				"uiTheme": "vs-dark",
+				"path": "./themes/ayuloco-mirage-bordered-color-theme.json"
 			}
 		]
 	}
