@@ -19,10 +19,10 @@
 				"uiTheme": "vs-dark",
 				"path": "./themes/ayuloco-dark-color-theme.json"
 			},
-			{
-				"label": "Ayuloco Dark Italic",
+      {
+				"label": "Ayuloco Dark Bordered",
 				"uiTheme": "vs-dark",
-				"path": "./themes/ayuloco-dark-italic-color-theme.json"
+				"path": "./themes/ayuloco-dark-bordered-color-theme.json"
 			}
 		]
 	}
