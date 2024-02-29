@@ -3,4 +3,4 @@
 .vsixmanifest
 node_modules/
 *.swp
-ayuloco-theme-1.0.0.vsix
+*.vsix
