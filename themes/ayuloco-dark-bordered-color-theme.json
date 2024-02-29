@@ -1,5 +1,6 @@
 {
   "name": "Ayuloco Dark Bordered",
+  "type": "dark",
   "semanticHighlighting": true,
   "colors": {
 		"focusBorder": "#e6b450b3",
